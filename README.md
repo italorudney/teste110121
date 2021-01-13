@@ -1,5 +1,5 @@
 # teste110121
-Pequena função criada para teste de grande empresa brasileira
+Pequena função criada para teste de grande empresa brasileira onde o objetivo é somar dois numeros inteiros positivos com todas as validações solicitadas
 
 Peço desculpas adiantado é a primeira vez que crio um README, então não sei bem a forma como detalho, sempre fiz projetos pessoais e para as empresas utilizando o bitbucket.
 
